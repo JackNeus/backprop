@@ -6,3 +6,4 @@ TODO:
 Research momentum term
 Add more examples
 Make it easier for others to set up tests
+Convert code to Python 3
